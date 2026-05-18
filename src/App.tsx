@@ -8,7 +8,7 @@ function App() {
   return (
     <>
       {/* <ProductCard title={title} price={price}/> */}
-      <RegistrationForm></RegistrationForm>
+      <RegistrationForm />
     </>
   )
 }
